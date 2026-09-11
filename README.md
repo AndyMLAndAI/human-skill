@@ -31,4 +31,4 @@ human/
 
 ## License
 
-Personal use.
+MIT
